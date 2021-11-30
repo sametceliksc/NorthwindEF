@@ -1,0 +1,32 @@
+D:\Yazılım\Github\Bilge Adam Akademi\YZL3153\4-DataAccess\29.11\WFA_NorthwindEF\WFA_NorthwindEF\bin\Debug\WFA_NorthwindEF.exe.config
+D:\Yazılım\Github\Bilge Adam Akademi\YZL3153\4-DataAccess\29.11\WFA_NorthwindEF\WFA_NorthwindEF\bin\Debug\WFA_NorthwindEF.exe
+D:\Yazılım\Github\Bilge Adam Akademi\YZL3153\4-DataAccess\29.11\WFA_NorthwindEF\WFA_NorthwindEF\bin\Debug\WFA_NorthwindEF.pdb
+D:\Yazılım\Github\Bilge Adam Akademi\YZL3153\4-DataAccess\29.11\WFA_NorthwindEF\WFA_NorthwindEF\bin\Debug\EntityFramework.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YZL3153\4-DataAccess\29.11\WFA_NorthwindEF\WFA_NorthwindEF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Yazılım\Github\Bilge Adam Akademi\YZL3153\4-DataAccess\29.11\WFA_NorthwindEF\WFA_NorthwindEF\bin\Debug\EntityFramework.xml
+D:\Yazılım\Github\Bilge Adam Akademi\YZL3153\4-DataAccess\29.11\WFA_NorthwindEF\WFA_NorthwindEF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Yazılım\Github\Bilge Adam Akademi\YZL3153\4-DataAccess\29.11\WFA_NorthwindEF\WFA_NorthwindEF\obj\Debug\WFA_NorthwindEF.csproj.AssemblyReference.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YZL3153\4-DataAccess\29.11\WFA_NorthwindEF\WFA_NorthwindEF\obj\Debug\WFA_NorthwindEF.Form1.resources
+D:\Yazılım\Github\Bilge Adam Akademi\YZL3153\4-DataAccess\29.11\WFA_NorthwindEF\WFA_NorthwindEF\obj\Debug\WFA_NorthwindEF.Properties.Resources.resources
+D:\Yazılım\Github\Bilge Adam Akademi\YZL3153\4-DataAccess\29.11\WFA_NorthwindEF\WFA_NorthwindEF\obj\Debug\WFA_NorthwindEF.csproj.GenerateResource.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YZL3153\4-DataAccess\29.11\WFA_NorthwindEF\WFA_NorthwindEF\obj\Debug\WFA_NorthwindEF.csproj.CoreCompileInputs.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YZL3153\4-DataAccess\29.11\WFA_NorthwindEF\WFA_NorthwindEF\obj\Debug\WFA_NorthwindEF.exe
+D:\Yazılım\Github\Bilge Adam Akademi\YZL3153\4-DataAccess\29.11\WFA_NorthwindEF\WFA_NorthwindEF\obj\Debug\WFA_NorthwindEF.pdb
+D:\Yazılım\Github\Bilge Adam Akademi\YZL3153\4-DataAccess\29.11\WFA_NorthwindEF\WFA_NorthwindEF\obj\Debug\WFA_NorthwindEF.Products.ProductForm.resources
+C:\Users\Samet\Desktop\ÖDEV\WFA_NorthwindEF\WFA_NorthwindEF\bin\Debug\WFA_NorthwindEF.exe.config
+C:\Users\Samet\Desktop\ÖDEV\WFA_NorthwindEF\WFA_NorthwindEF\bin\Debug\WFA_NorthwindEF.exe
+C:\Users\Samet\Desktop\ÖDEV\WFA_NorthwindEF\WFA_NorthwindEF\bin\Debug\WFA_NorthwindEF.pdb
+C:\Users\Samet\Desktop\ÖDEV\WFA_NorthwindEF\WFA_NorthwindEF\bin\Debug\EntityFramework.dll
+C:\Users\Samet\Desktop\ÖDEV\WFA_NorthwindEF\WFA_NorthwindEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Samet\Desktop\ÖDEV\WFA_NorthwindEF\WFA_NorthwindEF\bin\Debug\EntityFramework.xml
+C:\Users\Samet\Desktop\ÖDEV\WFA_NorthwindEF\WFA_NorthwindEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Samet\Desktop\ÖDEV\WFA_NorthwindEF\WFA_NorthwindEF\obj\Debug\WFA_NorthwindEF.csproj.AssemblyReference.cache
+C:\Users\Samet\Desktop\ÖDEV\WFA_NorthwindEF\WFA_NorthwindEF\obj\Debug\WFA_NorthwindEF.Form1.resources
+C:\Users\Samet\Desktop\ÖDEV\WFA_NorthwindEF\WFA_NorthwindEF\obj\Debug\WFA_NorthwindEF.Products.ProductForm.resources
+C:\Users\Samet\Desktop\ÖDEV\WFA_NorthwindEF\WFA_NorthwindEF\obj\Debug\WFA_NorthwindEF.Properties.Resources.resources
+C:\Users\Samet\Desktop\ÖDEV\WFA_NorthwindEF\WFA_NorthwindEF\obj\Debug\WFA_NorthwindEF.csproj.GenerateResource.cache
+C:\Users\Samet\Desktop\ÖDEV\WFA_NorthwindEF\WFA_NorthwindEF\obj\Debug\WFA_NorthwindEF.csproj.CoreCompileInputs.cache
+C:\Users\Samet\Desktop\ÖDEV\WFA_NorthwindEF\WFA_NorthwindEF\obj\Debug\WFA_NorthwindEF.csproj.CopyComplete
+C:\Users\Samet\Desktop\ÖDEV\WFA_NorthwindEF\WFA_NorthwindEF\obj\Debug\WFA_NorthwindEF.exe
+C:\Users\Samet\Desktop\ÖDEV\WFA_NorthwindEF\WFA_NorthwindEF\obj\Debug\WFA_NorthwindEF.pdb
+C:\Users\Samet\Desktop\ÖDEV\WFA_NorthwindEF\WFA_NorthwindEF\obj\Debug\WFA_NorthwindEF.Employees.EmployeeForm.resources
